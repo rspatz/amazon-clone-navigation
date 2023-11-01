@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 8em;
+  height: 3em;
+}
+
+.loggedIn {
+  width: 10%;
+}
+
+.loggedInAccount {
+  width: 70%;
+}
+
+.returns {
+  width: 5%;
+}
+
+span {
+  font-weight: bold;
+  font-size: 1.15rem;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+li {
+  margin: 0.5rem auto;
+  color: #ccc;
+}
+
+.primary-nav {
+  height: 3rem;
+  background-color: #232f3e;
+  font-weight: bold;
+}
+
+.secondary-nav {
+  background: #131921;
+}
