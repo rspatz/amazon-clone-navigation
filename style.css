@@ -28,7 +28,7 @@ img {
 
 span {
   font-weight: bold;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 
 ul {
@@ -36,13 +36,13 @@ ul {
   flex-direction: row;
   list-style-type: none;
   font-family: sans-serif;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 li {
   margin: 0.5rem auto;
   color: #ccc;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .primary-nav {
